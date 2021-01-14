@@ -1,5 +1,5 @@
 # calculatorBasic
-A simpmle Basic Calculator Android Application.
+A simple Basic Calculator Android Application.
 
 
 
